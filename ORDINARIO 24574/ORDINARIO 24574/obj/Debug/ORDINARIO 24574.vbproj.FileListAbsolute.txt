@@ -1,0 +1,12 @@
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\bin\Debug\ORDINARIO 24574.exe.config
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\bin\Debug\ORDINARIO 24574.exe
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\bin\Debug\ORDINARIO 24574.pdb
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\bin\Debug\ORDINARIO 24574.xml
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\obj\Debug\ORDINARIO 24574.vbprojAssemblyReference.cache
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\obj\Debug\ORDINARIO_24574.Form1.resources
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\obj\Debug\ORDINARIO_24574.Resources.resources
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\obj\Debug\ORDINARIO 24574.vbproj.GenerateResource.cache
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\obj\Debug\ORDINARIO 24574.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\obj\Debug\ORDINARIO 24574.exe
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\obj\Debug\ORDINARIO 24574.xml
+C:\Users\win512\Documents\Chat\ORDINARIO 24574\ORDINARIO 24574\obj\Debug\ORDINARIO 24574.pdb
